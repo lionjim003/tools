@@ -1,0 +1,1 @@
+@if exist %~dp0.hided (attrib -H %~dp0*.bat&&attrib -H %~dp0.* /D&&del %~dp0.hided) else echo.>%~dp0.hided&&attrib +H %~dp0*.bat&&attrib +H %~dp0.* /D

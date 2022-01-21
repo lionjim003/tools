@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Li Jim
+	email = lionjim003@gmail.com
+[core]
+	editor = \\\\notepad++\\\\notepad++.exe
+	autocrlf = true
+[http]
+	sslcainfo = \\git\\mingw64\\ssl\\certs\\ca-bundle.crt
