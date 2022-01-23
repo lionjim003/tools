@@ -14,3 +14,7 @@ Command line tools for learning program stuff.
   Batch for execute browser and searching.  
 * __youtube.bat__  
   Batch for execute default browser and searching on youtube.  
+  * __notepadpp_config.xml__  
+  XML for config notepad++ user interface.  
+  * __notepadpp_stylers.xml__  
+  XML for config notepad++ theme and language hight light.  
