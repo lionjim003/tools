@@ -1,6 +1,6 @@
 # This is Git's per-user configuration file.
 [user]
-	name = Li Jim
+	name = lionjim
 	email = lionjim003@gmail.com
 [core]
 	editor = \\\\notepad++\\\\notepad++.exe
